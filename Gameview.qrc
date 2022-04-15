@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="Gameview">
+    <file>Resources/icon.ico</file>
+    <file>Resources/001.jpg</file>
+  </qresource>
+</RCC>
